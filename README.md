@@ -6,7 +6,7 @@
 🐾 A huge animal lover who enjoys volunteering at shelters
 
 ---
-This is my hamster, Kinako! :3
+This is my hamster, Kinako! :3  
 ![Kinako](kinako.jpg)
 
 
