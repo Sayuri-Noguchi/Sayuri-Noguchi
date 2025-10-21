@@ -1,9 +1,14 @@
 # Hello, World! My name is Sayuri 🌸
 
 🎓 I'm a recent A Level graduate (Physics, Chemistry, Math, and Computer Science)  
-✨ Interested in the intersection of modern medicine and technology
-🎨 I also enjoy **drawing, designing, and illustrating** 
+✨ Interested in the intersection of modern medicine and technology  
+🎨 I also enjoy **drawing, designing, and illustrating**   
 🐾 A huge animal lover who enjoys volunteering at shelters
+
+---
+
+![Here is my hamster, Kinako :3 ](kinako.jpg)
+
 
 ---
 
